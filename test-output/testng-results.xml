@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-30T11:51:55 IST" name="Default suite" finished-at="2021-07-30T11:51:58 IST" duration-ms="2524">
+    <groups>
+    </groups>
+    <test started-at="2021-07-30T11:51:55 IST" name="Default test" finished-at="2021-07-30T11:51:58 IST" duration-ms="2524">
+      <class name="com.app.tests.AmazonTest">
+        <test-method signature="verifygetOpenMenu()[pri:0, instance:com.app.tests.AmazonTest@781f10f2]" started-at="2021-07-30T11:51:56 IST" name="verifygetOpenMenu" finished-at="2021-07-30T11:51:58 IST" duration-ms="2342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygetOpenMenu -->
+      </class> <!-- com.app.tests.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
