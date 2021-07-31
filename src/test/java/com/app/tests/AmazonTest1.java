@@ -9,7 +9,9 @@ public class AmazonTest {
 
 	BasePage bp;
 	AmazonObject AmazonHomepage;
-	public int a= 10;
+	public int a= 10;		
+	public int b = 78;
+
 	
 	public AmazonTest() {
 		bp = new BasePage();
