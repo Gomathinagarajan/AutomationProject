@@ -8,7 +8,8 @@ import com.app.pages.BasePage;
 public class AmazonTest {
 
 	BasePage bp;
-	AmazonObject AmazonHomepage;
+	AmazonObject AmazonHomepage;	
+	public int b = 78;
 	
 	public AmazonTest() {
 		bp = new BasePage();
